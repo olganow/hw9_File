@@ -1,0 +1,14 @@
+{
+  "name": "Matroskin",
+  "owner": "Fedor",
+  "age": 3,
+  "passport": {
+    "id": "ABS123",
+    "isValid": true
+  },
+  "details": [
+    "4 paws",
+    "1 tail",
+    "whiskers"
+  ]
+}
